@@ -1,0 +1,2 @@
+note: if you don't have your proxy or socks configured correctly, you will not be able to clone this repo
+
